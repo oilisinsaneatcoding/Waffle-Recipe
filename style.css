@@ -1,0 +1,39 @@
+h4 {
+  color: white;
+  font-family: "Courier New";
+  font-size: 30px
+}
+h3 {
+  color: white;
+  font-family: "Courier New";
+  font-size: 30px
+}
+h2 {
+  color: white;
+  font-family: "Courier New";
+  font-size: 35px;
+}
+h1 {
+  color: orangered;
+  font-family: "Trebuchet MS";
+  text-align: center;
+  font-size: 55px
+}
+body {
+  background-color: black;
+}
+.centered {
+  text-align: center;
+  height: 500px;
+  width: 100%;
+}
+.cover {
+  height: 500px;
+  width: 100%;
+}
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+}
